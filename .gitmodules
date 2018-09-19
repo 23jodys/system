@@ -1,0 +1,3 @@
+[submodule "components/comp1"]
+	path = components/comp1
+	url = git@github.com:23jodys/comp1.git
